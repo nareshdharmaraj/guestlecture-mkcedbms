@@ -1,0 +1,19 @@
+<XML>
+<accounts>
+<account>
+<account_number> 123456789012</account_number>
+<user_name> naresh </user_name>
+<status> active </status>
+</account>
+<account>
+<account_number> 345678901234</account_number>
+<user_name> subash </user_name>
+<status> active </status>
+</account>
+<account>
+<account_number> 567890123456</account_number>
+<user_name> sharukan </user_name>
+<status> active </status>
+</account>
+</accounts>
+<XML>
